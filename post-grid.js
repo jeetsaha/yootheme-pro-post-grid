@@ -5,10 +5,10 @@ Builder.types.post_grid = {
 	title: 'Post Grid',
 
 	// Icon in `New element` dialog
-	icon: '/wp-content/themes/testing-ground/builder/post-grid/icon.svg',
+	icon: '/wp-content/themes/CHILD-THEME-NAME/builder/post-grid/icon.svg',
 
 	// Icon in builder overview
-	iconSmall: '/wp-content/themes/testing-ground/builder/post-grid/icon-small.svg',
+	iconSmall: '/wp-content/themes/CHILD-THEME-NAME/builder/post-grid/icon-small.svg',
 
 	// Show in `New element` dialog
 	element: true,
