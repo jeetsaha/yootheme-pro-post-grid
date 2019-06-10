@@ -1,3 +1,5 @@
+## NOTE: This extension is not supported anymore
+
 === Yootheme Pro Post Grid ===
 
 Stable tag: master
